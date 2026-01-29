@@ -6,7 +6,7 @@
     
     <!-- Главная страница -->
     <url>
-        <loc>https://ваш-сайт.com/</loc>
+        <loc>https://pcguides.vercel.app/</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
     
     <!-- Страница активации Windows -->
     <url>
-        <loc>https://ваш-сайт.com/aktivatia.html</loc>
+        <loc>https://pcguides.vercel.app/aktivatia.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
@@ -22,7 +22,7 @@
     
     <!-- Гайд по оптимизации -->
     <url>
-        <loc>https://ваш-сайт.com/guide-optimization.html</loc>
+        <loc>https://pcguides.vercel.app/guide-optimization.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -30,7 +30,7 @@
     
     <!-- Гайд по очистке -->
     <url>
-        <loc>https://ваш-сайт.com/guide-cleanup.html</loc>
+        <loc>https://pcguides.vercel.app/guide-cleanup.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -38,7 +38,7 @@
     
     <!-- Гайд по безопасности -->
     <url>
-        <loc>https://ваш-сайт.com/guide-defender.html</loc>
+        <loc>https://pcguides.vercel.app/guide-defender.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -46,7 +46,7 @@
     
     <!-- Сравнение антивирусов -->
     <url>
-        <loc>https://ваш-сайт.com/antivirus-comparison.html</loc>
+        <loc>https://pcguides.vercel.app/antivirus-comparison.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
@@ -54,7 +54,7 @@
     
     <!-- Бесплатные программы -->
     <url>
-        <loc>https://ваш-сайт.com/tools.html</loc>
+        <loc>https://pcguides.vercel.app/tools.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -62,7 +62,7 @@
     
     <!-- Резервное копирование -->
     <url>
-        <loc>https://ваш-сайт.com/backup.html</loc>
+        <loc>https://pcguides.vercel.app/backup.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
@@ -70,7 +70,7 @@
     
     <!-- Решение проблем -->
     <url>
-        <loc>https://ваш-сайт.com/troubleshooting.html</loc>
+        <loc>https://pcguides.vercel.app/troubleshooting.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
@@ -78,7 +78,7 @@
     
     <!-- О проекте -->
     <url>
-        <loc>https://ваш-сайт.com/about.html</loc>
+        <loc>https://pcguides.vercel.app/about.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
@@ -86,7 +86,7 @@
     
     <!-- Контакты -->
     <url>
-        <loc>https://ваш-сайт.com/contact.html</loc>
+        <loc>https://pcguides.vercel.app/contact.html</loc>
         <lastmod>2026-01-21</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>

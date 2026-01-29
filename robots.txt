@@ -3,7 +3,7 @@ Allow: /
 
 # Общие правила для всех роботов
 Crawl-delay: 1
-Sitemap: https://sayt.ru/sitemap.xml
+Sitemap: https://pcguides.vercel.app/
 
 Disallow: /*.pdf$
 Disallow: /*.doc$
