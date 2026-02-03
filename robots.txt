@@ -3,35 +3,19 @@ Allow: /
 
 # Общие правила для всех роботов
 Crawl-delay: 1
-Sitemap: https://pcguides.vercel.app/
-
-Disallow: /*.pdf$
-Disallow: /*.doc$
-Disallow: /*.xls$
-Disallow: /*.ppt$
+Sitemap: https://pcguides.vercel.app/sitemap.xml
 
 User-agent: Googlebot
 Allow: /
-Crawl-delay: 1
-Disallow: /*.pdf$
-Disallow: /*.doc$
-Disallow: /*.xls$
-Disallow: /*.ppt$
-Host: sayt.ru
+Crawl-delay: 1    
+Host: pcguides.vercel.app
 
 User-agent: Yandex
 Allow: /
 Crawl-delay: 2
-Disallow: /*.pdf$
-Disallow: /*.doc$
-Disallow: /*.xls$
-Disallow: /*.ppt$
+Host: pcguides.vercel.app
 
 User-agent: YandexBot
 Allow: /
 Crawl-delay: 2
-Disallow: /*.pdf$
-Disallow: /*.doc$
-Disallow: /*.xls$
-Disallow: /*.ppt$
-Host: sayt.ru
+Host: pcguides.vercel.app
